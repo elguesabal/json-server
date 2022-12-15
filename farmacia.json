@@ -1,0 +1,46 @@
+{
+    "primeirosSocorros": [
+        {
+            "id": 1,
+            "produto": "Atadura de Crepom Cremer Tipo Cysne 10cm x 1,80m com 1 unidade",
+            "marca": "Cremer",
+            "valor": "R$2,99",
+            "descricao": "Confeccionadas em tecido 100% algodão cru, com fios de alta torção que conferem alta resistência; Densidade de 13 fios/cm2, possuindo bastante elasticidade no sentido longitudinal"
+        },
+        {
+            "id": 2,
+            "produto": "Algodão Caixa Apolo 25G",
+            "marca": "Apolo ",
+            "valor": "R$4,09",
+            "descricao": "O Rolo de Algodão Hidrófilo Apolo é composto de fibras 100% algodão, alvejadas e em forma de mantas. Sua maciez garante uma higienização eficaz sem agredir a pele, por isso ele pode ser utilizado nas assepsias de leves ferimentos, além dos procedimentos diários de higiene e beleza. Validade 5 anos"
+        },
+        {
+            "id": 3,
+            "produto": "Soro Fisiológico Cloreto de Sódio 0,9% Needs 500ml",
+            "marca": "Needs",
+            "valor": "R$7,79",
+            "descricao": "O cloreto de sódio a 0,9%, também conhecido popularmente por soro fisiológico, é uma solução salina utilizada para diversas finalidades como a limpeza dos olhos e nariz, queimaduras ou feridas e também para fazer nebulizações."
+        },
+        {
+            "id": 4,
+            "produto": "Compressa de Gaze Estéril 3M Nexcare com 10 unidades",
+            "marca": "Nexcare",
+            "valor": "R$3,23",
+            "descricao": "A Gaze Estéril Nexcare é um produto de uso único e deve ser descartada após o uso. Deve ser conservada em local seco, limpo, arejado e protegido da luz solar."
+        },
+        {
+            "id": 5,
+            "produto": "Esparadrapo Branco Impermeável Needs 5cm x 4,5m needs",
+            "marca": "Needs",
+            "valor": "R$10,59",
+            "descricao": "O Esparadrapo Branco Impermeável Needs é feito de tecido 100% algodão com tratamento acrílico e adesivo à base de óxido de zinco, borracha natural e resinas. "
+        },
+        {
+            "id": 6,
+            "produto": "",
+            "marca": "",
+            "valor": "R$,",
+            "descricao": ""
+        }
+    ]
+}
