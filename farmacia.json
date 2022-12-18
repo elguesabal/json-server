@@ -3,7 +3,7 @@
         {
             "id": 1,
             "produto": "Atadura de Crepom Cremer Tipo Cysne 10cm x 1,80m com 1 unidade",
-            "imagem": "",
+            "imagem": "https://www.drogaraia.com.br/_next/image?url=https%3A%2F%2Fimg.drogaraia.com.br%2Fcatalog%2Fproduct%2Fa%2Ft%2Fatadura-de-crepom-cremer-cysne-10cmx1_80m-com-1-unidade.jpg&w=256&q=75",
             "marca": "Cremer",
             "valor": "R$2,99",
             "descricao": "Confeccionadas em tecido 100% algodão cru, com fios de alta torção que conferem alta resistência; Densidade de 13 fios/cm2, possuindo bastante elasticidade no sentido longitudinal"
@@ -14,7 +14,7 @@
         {
             "id": 2,
             "produto": "Algodão Caixa Apolo 25G",
-            "imagem": "",
+            "imagem": "https://www.drogaraia.com.br/_next/image?url=https%3A%2F%2Fimg.drogaraia.com.br%2Fcatalog%2Fproduct%2Fp%2Fr%2Fprod_202210031747196107.jpg&w=256&q=75",
             "marca": "Apolo ",
             "valor": "R$4,09",
             "descricao": "O Rolo de Algodão Hidrófilo Apolo é composto de fibras 100% algodão, alvejadas e em forma de mantas. Sua maciez garante uma higienização eficaz sem agredir a pele, por isso ele pode ser utilizado nas assepsias de leves ferimentos, além dos procedimentos diários de higiene e beleza. Validade 5 anos"
@@ -25,7 +25,7 @@
         {
             "id": 3,
             "produto": "Soro Fisiológico Cloreto de Sódio 0,9% Needs 500ml",
-            "imagem": "",
+            "imagem": "https://www.drogaraia.com.br/_next/image?url=https%3A%2F%2Fimg.drogaraia.com.br%2Fcatalog%2Fproduct%2Fs%2Fo%2Fsoro-fisiologico-cloreto-de-sodio-0_9_-needs-500ml-3.jpg&w=256&q=75",
             "marca": "Needs",
             "valor": "R$7,79",
             "descricao": "O cloreto de sódio a 0,9%, também conhecido popularmente por soro fisiológico, é uma solução salina utilizada para diversas finalidades como a limpeza dos olhos e nariz, queimaduras ou feridas e também para fazer nebulizações."
@@ -36,7 +36,7 @@
         {
             "id": 4,
             "produto": "Compressa de Gaze Estéril 3M Nexcare com 10 unidades",
-            "imagem": "",
+            "imagem": "https://www.drogaraia.com.br/_next/image?url=https%3A%2F%2Fimg.drogaraia.com.br%2Fcatalog%2Fproduct%2Fn%2Fe%2Fnexcare_gaze_esteril_c10_un.jpg&w=256&q=75",
             "marca": "Nexcare",
             "valor": "R$3,23",
             "descricao": "A Gaze Estéril Nexcare é um produto de uso único e deve ser descartada após o uso. Deve ser conservada em local seco, limpo, arejado e protegido da luz solar."
@@ -46,10 +46,10 @@
     "esparadrapo": [
         {
             "id": 5,
-            "produto": "Esparadrapo Branco Impermeável Needs 5cm x 4,5m needs",
-            "imagem": "",
+            "produto": "Esparadrapo branco impermeável Needs 2,5cm X 4,5m",
+            "imagem": "https://www.drogaraia.com.br/_next/image?url=https%3A%2F%2Fimg.drogaraia.com.br%2Fcatalog%2Fproduct%2Fe%2Fs%2Fesparadrapo-branco-impermeavel-needs-2_5cm-x-4_5m-1.jpg&w=256&q=75",
             "marca": "Needs",
-            "valor": "R$10,59",
+            "valor": "R$7,79",
             "descricao": "O Esparadrapo Branco Impermeável Needs é feito de tecido 100% algodão com tratamento acrílico e adesivo à base de óxido de zinco, borracha natural e resinas. "
         }
     ]
